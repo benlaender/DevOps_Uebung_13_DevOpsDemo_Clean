@@ -30,6 +30,7 @@ public class ToDoController {
         this.todos.put(3,new ToDo(3, "Deployment", "Jede Woche!"));
         this.todos.put(4,new ToDo(4, "Organigramm", "Löschen"));
         this.todos.put(5,new ToDo(5, "Lernjournal", "Lernjournal fertig schreiben."));
+        this.todos.put(6,new ToDo(6, "DevOps Präsentation", "aufnehmen und schneiden"));
         System.out.println("Init Data");
     }
 
