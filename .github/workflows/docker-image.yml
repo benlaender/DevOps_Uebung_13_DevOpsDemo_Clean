@@ -1,4 +1,4 @@
-name: azure docker deployment
+name: Github Azure Deployment
 
 on:
   push:
